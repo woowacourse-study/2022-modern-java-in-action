@@ -92,6 +92,8 @@
 
 ## 🧑‍💻 참여자
 
-| 스터디원 |                 Github 프로필                 |             정리 자료             |
-| :------: | :-------------------------------------------: | :-------------------------------: |
-|    정    | [bugoverdose](https://github.com/bugoverdose) | [:link:](./bugoverdose/README.md) |
+| 스터디원 |                  Github 프로필                  |             정리 자료              |
+| :------: | :---------------------------------------------: | :--------------------------------: |
+|  그린론  |   [jaejae-yoo](https://github.com/jaejae-yoo)   |  [:link:](./jaejae-yoo/README.md)  |
+|   라라   | [sure-why-not](https://github.com/sure-why-not) | [:link:](./sure-why-not/README.md) |
+|    정    |  [bugoverdose](https://github.com/bugoverdose)  | [:link:](./bugoverdose/README.md)  |
