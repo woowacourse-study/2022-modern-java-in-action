@@ -38,7 +38,7 @@
 |  그린론  |   [jaejae-yoo](https://github.com/jaejae-yoo)   |  [:link:](./jaejae-yoo/README.md)  |
 |   라라   | [sure-why-not](https://github.com/sure-why-not) | [:link:](./sure-why-not/README.md) |
 |    정    |  [bugoverdose](https://github.com/bugoverdose)  | [:link:](./bugoverdose/README.md)  |
-|   토르   |  [bugoverdose](https://github.com/injoon2019)   |  [:link:](./injoon2019/README.md)  |
+|   토르   |   [injoon2019](https://github.com/injoon2019)   |  [:link:](./injoon2019/README.md)  |
 
 ## 🐾 발자취
 
