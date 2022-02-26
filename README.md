@@ -37,8 +37,12 @@
 | :------: | :---------------------------------------------: | :--------------------------------: |
 |  그린론  |   [jaejae-yoo](https://github.com/jaejae-yoo)   |  [:link:](./jaejae-yoo/README.md)  |
 |   라라   | [sure-why-not](https://github.com/sure-why-not) | [:link:](./sure-why-not/README.md) |
+|  배카라  |   [seong-wooo](https://github.com/seong-wooo)   |  [:link:](./seong-wooo/README.md)  |
+|    썬    |     [Syoun602](https://github.com/Syoun602)     |   [:link:](./Syoun602/README.md)   |
+|   알파   |      [bcc0830](https://github.com/bcc0830)      |   [:link:](./bcc0830/README.md)    |
 |    정    |  [bugoverdose](https://github.com/bugoverdose)  | [:link:](./bugoverdose/README.md)  |
 |   토르   |   [injoon2019](https://github.com/injoon2019)   |  [:link:](./injoon2019/README.md)  |
+|   티키   |   [yh20studio](https://github.com/yh20studio)   |  [:link:](./yh20studio/README.md)  |
 
 ## 🐾 발자취
 
