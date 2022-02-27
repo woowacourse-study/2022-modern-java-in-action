@@ -31,7 +31,7 @@
 
 스터디원 외에도 자유롭게 이슈를 생성할 수 있으며, 스터디 내 토론 활동과 별개로 답변을 통해 의견을 공유할 수 있다.
 
-## 🧑‍💻 참여자
+## 👨‍💻 참여자
 
 | 스터디원 |                  Github 프로필                  |             정리 자료              |
 | :------: | :---------------------------------------------: | :--------------------------------: |
@@ -40,6 +40,7 @@
 |  배카라  |   [seong-wooo](https://github.com/seong-wooo)   |  [:link:](./seong-wooo/README.md)  |
 |    썬    |     [Syoun602](https://github.com/Syoun602)     |   [:link:](./Syoun602/README.md)   |
 |   알파   |      [bcc0830](https://github.com/bcc0830)      |   [:link:](./bcc0830/README.md)    |
+|   야호   |      [pup-paw](https://github.com/pup-paw)      |   [:link:](./pup-paw/README.md)    |
 |    정    |  [bugoverdose](https://github.com/bugoverdose)  | [:link:](./bugoverdose/README.md)  |
 |   토르   |   [injoon2019](https://github.com/injoon2019)   |  [:link:](./injoon2019/README.md)  |
 |   티키   |   [yh20studio](https://github.com/yh20studio)   |  [:link:](./yh20studio/README.md)  |
